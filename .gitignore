@@ -1,0 +1,69 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Uploads
+uploads/
+backend/uploads/
+
+# Browser Extensions (these cause line ending warnings)
+**/AppData/
+**/.VirtualBox/
+**/.anaconda/
+**/.antigravity/
+**/.cache/
+**/.cagent/
+**/.conda/
+**/.config/
+**/.continuum/
+**/.copilot/
+**/.cursor/
+**/.docker/
+**/.gemini/
+**/.ipynb_checkpoints/
+**/.ipython/
+**/.jupyter/
+**/.keras/
+**/.matplotlib/
+**/.ssh/
+
+# Virtual Machine files
+**/VirtualBox VMs/
+**/Oracle/
+
+# Project specific
+AgriGurad-AI-2.0/
+backend/models/
+
